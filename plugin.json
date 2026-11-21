@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "bt-company",
+  "version": "1.0.0",
+  "description": "BT 公司助理外掛：連接公司 Google Workspace（Gmail、日曆、雲端硬碟），每位同事用自己的公司帳號登入授權。"
+}
